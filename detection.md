@@ -1,3 +1,7 @@
+##### (Zbieżność nazw i miejsc przypadkowa)
+
+---
+
 ## System detekcji
 
 Ostatnimi czasy, członkowie koła AGH Solar Plane postanowili, że chcą tchnąć odrobinę inteligencji w swoje samoloty. Plany były wielkie, stworzyć sztuczną inteligencję będącą w stanie rozpoznawać wszystko co zobaczy. Jednakże ich pierwotne marzenia zostały rozsypane, gdy dowiedzieli się, że związku z panującą epidemią _COVID-19_ dotację na koła naukowe zostały drastycznie obcięte. 
@@ -18,7 +22,7 @@ Na wejściu twój program otrzmuje w pierwszej linii liczby ___X___ oraz ___Y___
 
 ## Wyjście
 
-Na wyjściu twój program w pierwszej i jedynej linii podać liczbę znalezionych krówek.
+Na wyjściu twój program powinien w pierwszej i jedynej linii podać liczbę znalezionych krówek.
 
 --- 
 
