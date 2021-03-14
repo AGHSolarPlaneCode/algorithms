@@ -1,6 +1,6 @@
 ## System detekcji
 
-Ostatnimi czasy, członkowie koła AGH solar plane postanowili, że chcą tchnąć odrobinę inteligencji w swoje samoloty. Plany były wielkie, stworzyć sztuczną inteligencję będącą w stanie rozpoznawać wszystko co zobaczy. Jednakże ich pierwotne marzenia zostały rozsypane, gdy dowiedzieli się, że związku z panującą epidemią _covid-19_ dotację na koła naukowe zostały drastycznie obcięte. 
+Ostatnimi czasy, członkowie koła AGH Solar Plane postanowili, że chcą tchnąć odrobinę inteligencji w swoje samoloty. Plany były wielkie, stworzyć sztuczną inteligencję będącą w stanie rozpoznawać wszystko co zobaczy. Jednakże ich pierwotne marzenia zostały rozsypane, gdy dowiedzieli się, że związku z panującą epidemią _COVID-19_ dotację na koła naukowe zostały drastycznie obcięte. 
 
 Ich pierwotne ambicje o stworzeniu sieci neuronowych musiały zostać odłożone na bok, a problem rozwiązany prostszymi metodami. Postawiono na prosty algorytm detekcji na podstawie rozmiaru obiektu. Pozostali członkowie koła przygotowali już pierwsze segmenty detekcji, pozostawiając Tobie najbardziej kluczowy z nich. 
 
