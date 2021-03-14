@@ -4,6 +4,7 @@
 
 ## System detekcji
 #### Język programowania: dowolny
+#### Czas oddania: Środa 17.03.2021 23:59
 
 
 Ostatnimi czasy, członkowie koła AGH Solar Plane postanowili, że chcą tchnąć odrobinę inteligencji w swoje samoloty. Plany były wielkie, stworzyć sztuczną inteligencję będącą w stanie rozpoznawać wszystko co zobaczy. Jednakże ich pierwotne marzenia zostały rozsypane, gdy dowiedzieli się, że związku z panującą epidemią _COVID-19_ dotację na koła naukowe zostały drastycznie obcięte. 
